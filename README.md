@@ -12,7 +12,7 @@
 </p
   
 <div style="width:100%;">
-    <img src="https://komarev.com/ghpvc/?username=MuneebAijaz&style=flat-square&color=blue" alt="" style="width:120px;"/>
+    <img src="https://komarev.com/ghpvc/?username=AhmadNaeemK&style=flat-square&color=blue" alt="" style="width:120px;"/>
 </div>
 
 <!-- ![Ahmad's Top 5 used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNaeemK&langs_count=5&theme=dark) -->
