@@ -10,10 +10,12 @@
 <p>
   <a href="mailto:ahmadnaeemk12@gmail.com"><img src="https://img.shields.io/badge/-Email-white?&style=for-the-badge&logo=gmail&logoColor=EA4335" height=25></a> <a href="https://www.instagram.com/ahm3dnaeem/"><img src="https://img.shields.io/badge/-Instagram-white?&style=for-the-badge&logo=instagram&logoColor=deepPink" height=25></a> <a href="https://www.linkedin.com/in/muhammad-ahmad-naeem-aa2614185"><img src="https://img.shields.io/badge/-LinkedIn-white?&style=for-the-badge&logo=linkedin&logoColor=0A66C2" height=25></a>
 </p
-  
+ 
+<!-- 
 <div style="width:100%;">
     <img src="https://komarev.com/ghpvc/?username=AhmadNaeemK&style=flat-square&color=blue" alt="" style="width:120px;"/>
 </div>
+-->
 
 <!-- ![Ahmad's Top 5 used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNaeemK&langs_count=5&theme=dark) -->
 
