@@ -3,7 +3,7 @@
 - 🔭 I’m currently working for Arbisoft
 - 👀 I’m interested in Computer Vision, Graphics, Frontend Development and DevOps.
 - 🌱 I’m currently learning OpenGL 
-- 💬 Ask me about Python, Django, Docker and React
+- 💬 Ask me about Python, Django, React and React Native
 - ⚡ Fun fact: I like Urdu Poetry and to make quick sketches
 
 📫 How to reach me
